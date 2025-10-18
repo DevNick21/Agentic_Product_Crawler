@@ -1,0 +1,14 @@
+# Core dependencies
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# LangChain framework
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-anthropic>=0.1.0
+langchain-openai>=0.0.5
+langgraph>=0.0.20
+
+# Optional: For enhanced logging and tracing
+# langsmith>=0.0.70
